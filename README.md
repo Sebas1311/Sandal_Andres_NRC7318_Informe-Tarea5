@@ -1,14 +1,15 @@
 # Sandal_Andres_NRC7318_Informe-Tarea5
 
-                                                  Universidad de las Fuerzas Armadas - Espe
-                                                   Fundamentos de circuitos electrónicos 
+                                           Universidad de las Fuerzas Armadas - Espe
+                                             Fundamentos de circuitos electrónicos 
 - Nombre: Andrés Sandal
 - NRC: 7318
 - Fecha de entrega:08/07/2022
 - Ing. Alulema Darwin
 
-                                                             Informe Tarea N°5
-1.- Tema: Análisis de ramas, lazos y nodos / Teoremas de circuitos y conversiones
+                                                     Informe Tarea N°5
+                                                     
+1.- Tema: Análisis de ramas, lazos y nodos / Magnetismo y electromagnetismo
 
 2.- Objetivos:
 
@@ -29,3 +30,9 @@ Determinar y analizar las características que componen a un circuito en serie-p
 Link del mapa mental: https://www.canva.com/design/DAFFgCZnpgs/aZmWU0CgWYqnB3gABmZv3Q/view?utm_content=DAFFgCZnpgs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 4.- Resolución
+
+5.- Video
+
+6.- Conclusiones
+
+7.- Bibliografía
