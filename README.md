@@ -32,6 +32,7 @@ Link del mapa mental: https://www.canva.com/design/DAFFgCZnpgs/aZmWU0CgWYqnB3gAB
 4.- Resolución
 
 Floyd, T. (2007). Principios de circuitos eléctricos (Octava ed.). PEARSON EDUCACIÓN.
+
 5.- Video
 
 6.- Conclusiones
