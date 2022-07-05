@@ -29,6 +29,10 @@ Determinar los pasos que contienen cada uno de los tres los métodos de resoluci
 
 Link del mapa mental: https://www.canva.com/design/DAFFgCZnpgs/aZmWU0CgWYqnB3gABmZv3Q/view?utm_content=DAFFgCZnpgs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+![image](https://user-images.githubusercontent.com/105684550/177249993-4e5cd18f-789e-456d-9d31-c078716e4088.png)
+
+Link del mapa mental: https://www.canva.com/design/DAFFhOG0FM8/dC21agnu5S_fMSINwoLb5w/view?utm_content=DAFFhOG0FM8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 4.- Resolución
 
 Floyd, T. (2007). Principios de circuitos eléctricos (Octava ed.). PEARSON EDUCACIÓN.
