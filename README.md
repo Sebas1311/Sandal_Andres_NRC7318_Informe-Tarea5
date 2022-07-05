@@ -1,13 +1,13 @@
 # Sandal_Andres_NRC7318_Informe-Tarea5
 
-                                               Universidad de las Fuerzas Armadas - Espe
-                                                 Fundamentos de circuitos electrónicos 
+                                                 Universidad de las Fuerzas Armadas - Espe
+                                                   Fundamentos de circuitos electrónicos 
 - Nombre: Andrés Sandal
 - NRC: 7318
 - Fecha de entrega: 08/07/2022
 - Ing. Alulema Darwin
 
-                                                         Informe Tarea N°5
+                                                          Informe Tarea N°5
                                                      
 1.- Tema: Análisis de ramas, lazos y nodos / Magnetismo y electromagnetismo
 
@@ -15,13 +15,13 @@
 
   2.1.- Objetivo general:
   
-Determinar y analizar las características que componen a un circuito en serie-paralelo (mixto) para poder hallar variantes o incognitas que se presenten en este tipo de circuitos por medio del uso de formulas, planteamiento de ecuaciones basadas en leyes fundamentales, tales como la de ohm y kitchhoff.    
+Determinar los pasos que contienen cada uno de los tres los métodos de resolución de circuitos, por medio del uso de las ecuaciones simultaneas, mismas que nos permitirán hallar cantidades desconocidas del circuito en cuestión.
         
   2.2.- Objetivo específicos:
   
-        * Analizar el comportamiento de la corriente, resistencia y voltaje en los circuitos en serie-paralelo (mixto).
-        * Explicar el funcionamiento de como un voltímetro puede llegar a cargar un circuito.
-        * Determinar las características que existen en un circuito al presentarse un puente de Wheatstone.
+        - Analizar tres métodos de resolver ecuaciones simultáneas para determinar cantidades desconocidas en un circuito.
+        - Explicar los principios de un campo magnético para describir el principio de operación de varios tipos de dispositivos electromagnéticos. 
+        - Analizar el principio de inducción electromagnética con el fin de describir algunas aplicaciones de la inducción electromagnética.
         
 3.- Marco teórico
 
@@ -31,8 +31,21 @@ Link del mapa mental: https://www.canva.com/design/DAFFgCZnpgs/aZmWU0CgWYqnB3gAB
 
 4.- Resolución
 
+Floyd, T. (2007). Principios de circuitos eléctricos (Octava ed.). PEARSON EDUCACIÓN.
 5.- Video
 
 6.- Conclusiones
 
+- Con el método de la corriente de maya se pueden resolver circuitos al escribir la ley de voltaje de Kirchhoff para corrientes que fluyen en los lazos de un circuito.
+
+- El método de la corriente de lazo está estrechamente relacionado con el método de la corriente de malla. Úsalo para dos casos especiales: los circuitos no planos y dos mallas que comparten una fuente de corriente común. 
+
+- Una vez que aplicamos sus principios, leyes o fundamentos básicos a una escala industrial o a varios campos de la ciencia  se consigue de esta forma enormes adelantos tecnológicos y científicos pudiendo de otra forma la electrificación de todo el mundo y de la sociedad. 
+
 7.- Bibliografía
+
+- Arias, F. (2018, marzo 25). El método de la corriente de lazo (artículo). Khan Academy. Retrieved julio 4, 2022, from https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-loop-current-method
+
+- Endesa. (2019, septiembre 12). ¿Qué es el electromagnetismo? Fuerza electromagnética fundacionendesa.org. Fundación Endesa. Retrieved julio 4, 2022, from https://www.fundacionendesa.org/es/educacion/endesa-educa/recursos/que-es-el-electromagnetismo
+
+- Floyd, T. (2007). Principios de circuitos eléctricos (Octava ed.). PEARSON EDUCACIÓN.
