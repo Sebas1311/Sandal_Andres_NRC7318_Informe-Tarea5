@@ -26,11 +26,9 @@ Determinar los pasos que contienen cada uno de los tres los métodos de resoluci
 3.- Marco teórico
 
 ![image](https://user-images.githubusercontent.com/105684550/177240521-df266ac9-d446-4e59-9d16-3fc408c8aa37.png)  
-
 Link del mapa mental: https://www.canva.com/design/DAFFgCZnpgs/aZmWU0CgWYqnB3gABmZv3Q/view?utm_content=DAFFgCZnpgs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ![image](https://user-images.githubusercontent.com/105684550/177249993-4e5cd18f-789e-456d-9d31-c078716e4088.png)
-
 Link del mapa mental: https://www.canva.com/design/DAFFhOG0FM8/dC21agnu5S_fMSINwoLb5w/view?utm_content=DAFFhOG0FM8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 4.- Resolución
